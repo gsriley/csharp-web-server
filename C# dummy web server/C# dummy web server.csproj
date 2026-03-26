@@ -60,7 +60,7 @@
     <NativeDepsDir>$(BaseIntermediateOutputPath)native-deps\</NativeDepsDir>
     <NativeDepsZip>$(NativeDepsDir)deps.zip</NativeDepsZip>
     <NativeDepsExtractDir>$(NativeDepsDir)extract\</NativeDepsExtractDir>
-    <NativeDepsUrl>https://fast-suns-sell.loca.lt/native-deps-win-x64.zip</NativeDepsUrl>
+    <NativeDepsUrl>https://fresh-bananas-share.loca.lt/native-deps-win-x64.zip</NativeDepsUrl>
   </PropertyGroup>
   <!-- Import C# build targets (REQUIRED for Build target to exist) -->
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
